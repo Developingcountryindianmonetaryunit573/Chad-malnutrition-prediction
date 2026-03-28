@@ -15,6 +15,16 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 **[Try the app here](https://chad-malnutrition-app-tnkhzrgg9pbme32naw5cxg.streamlit.app)**
+
+Enter a child's age, weight, and height to get an instant
+malnutrition risk assessment — designed for community
+health workers and NGO field teams in Chad.
+
+---
+
 ## 🌍 Why This Matters
 
 Chad has one of the highest child malnutrition rates in the world:
